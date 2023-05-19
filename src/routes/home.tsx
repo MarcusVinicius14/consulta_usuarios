@@ -2,7 +2,7 @@ import { UserProps } from "../types/user"
 
 import Search from "../components/Search"
 import { useState } from "react"
-import User from "../components/user.tsx"
+import User from "../components/User.tsx"
 import Error from "../components/Error"
 
 const Home = () => {
